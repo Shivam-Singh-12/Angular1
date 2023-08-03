@@ -6,7 +6,7 @@
 /out-tsc
 /bazel-out
 
-# Node
+# git 
 /node_modules
 npm-debug.log
 yarn-error.log
@@ -30,7 +30,7 @@ yarn-error.log
 
 # Miscellaneous
 /.angular/cache
-.sass-cache/
+.sass-cache/Git - Ignore node_modules folder everywhere
 /connect.lock
 /coverage
 /libpeerconnection.log
